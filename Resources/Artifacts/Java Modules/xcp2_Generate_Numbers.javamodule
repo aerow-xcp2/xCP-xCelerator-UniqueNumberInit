@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nsJavaModule:JavaModule xmlns:nsJavaModule="http://xcp.emc.com/javamodule" urn=
+"urn:generate_numbers:com.emc.xcp.artifact.javamodule.category:Artifacts/Java 
+Modules/xcp2_Generate_Numbers.javamodule" categoryId="com.emc.xcp.artifact.javamodule.category" name=
+"xcp2_Generate_Numbers.javamodule" label="Generate Numbers" 
+implementationClass="com.emc.xcelerator.activities.GenerateNumberImpl">
+  <implementationJars contentPath="content/modules/xcp2_generate_numbers.jar"/>
+  <implementationJars contentPath="content/modules/xcp2_generate_numbers_impl.jar"/>
+</nsJavaModule:JavaModule>
+
+
+
